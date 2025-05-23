@@ -18,7 +18,7 @@ Key features:
 
 ## Live Demo
 
-[View the live application](https://your-vercel-deployment-url.vercel.app)
+[View the live application](https://pizza-hurt-vlqq.vercel.app/) Do hard referesh if google auth doesn't work
 
 ## Screenshots
 
